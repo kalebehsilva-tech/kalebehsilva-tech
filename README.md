@@ -1,4 +1,4 @@
-## 👋 Olá sou Kalebe Henrique 
+##  Olá sou Kalebe Henrique 
 ## Tenho 15 anos, sou menor aprendiz como assistente técnico de tecnologia da informação.
 <p align="left">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
