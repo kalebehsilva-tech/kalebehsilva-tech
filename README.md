@@ -1,6 +1,6 @@
 ## 👋 Olá sou Kalebe Henrique 
 ## Tenho 15 anos, sou menor aprendiz como assistente técnico de tecnologia da informação.
-##<p align="left">
+<p align="left">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </p>
